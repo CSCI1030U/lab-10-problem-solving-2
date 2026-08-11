@@ -20,7 +20,7 @@ you're a member. Tell your lab instructor if no invitation ever arrived.
 
 Lab repositories are **templates**: you make your own copy with one click.
 
-1. Open the **Lab 10 template** link in the Canvas assignment.
+1. Open the **Lab 10 template** link in the Canvas lab quiz.
 2. Click the green **Use this template** button, then **Create a new repository**.
 3. Fill in the form:
    - **Owner:** `CSCI1030U` (the organization, *not* your own account)
